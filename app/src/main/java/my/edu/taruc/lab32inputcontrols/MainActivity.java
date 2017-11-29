@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                     break;
                 case 1: premium = 55.00;
                     break;
-                case 2: premium = 60.00;
+                case 2: premium = 60.00 + 50.00;
                     break;
                 case 3: premium = 50.00;
                     break;
