@@ -16,7 +16,8 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/checkBoxSmoker" />
+        app:layout_constraintTop_toBottomOf="@+id/checkBoxSmoker"
+        tools:text="Premium" />
 
     <ImageView
         android:id="@+id/imageViewFlag"
